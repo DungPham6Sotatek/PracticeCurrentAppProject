@@ -1,0 +1,792 @@
+[INFO ] 10-04-2025 09:46:28 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 09:46:35 [main] Log - Enter Email
+[INFO ] 10-04-2025 09:46:40 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 09:47:41 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 09:47:47 [main] Log - Enter Email
+[INFO ] 10-04-2025 09:47:52 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 09:49:28 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 09:49:34 [main] Log - Enter Email
+[INFO ] 10-04-2025 09:49:40 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 09:50:52 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 09:50:58 [main] Log - Enter Email
+[INFO ] 10-04-2025 09:51:03 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 09:51:06 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 10:17:04 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 10:17:11 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 10:17:54 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:18:00 [main] Log - Enter Email
+[INFO ] 10-04-2025 10:18:06 [main] Log - Empty email error message is display
+[INFO ] 10-04-2025 10:18:46 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:18:53 [main] Log - Enter Email Missing "@"
+[INFO ] 10-04-2025 10:18:58 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 10:21:44 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:21:51 [main] Log - Enter Email Missing domain
+[INFO ] 10-04-2025 10:22:01 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 10:22:16 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:22:22 [main] Log - Enter Email Missing extension
+[INFO ] 10-04-2025 10:22:27 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 10:31:38 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:31:44 [main] Log - Enter Email Multiple "@@"
+[INFO ] 10-04-2025 10:31:49 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 10:32:04 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:32:10 [main] Log - Enter Email Special characters
+[INFO ] 10-04-2025 10:32:15 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 10:32:32 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:32:39 [main] Log - Enter Email
+[INFO ] 10-04-2025 10:32:43 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 10:32:46 [main] Log - Click Login btn on successfull created account screen
+[INFO ] 10-04-2025 10:32:49 [main] Log - New user on On Board screen is display
+[INFO ] 10-04-2025 10:38:09 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:38:16 [main] Log - Enter Email
+[INFO ] 10-04-2025 10:38:20 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 10:39:12 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:39:18 [main] Log - Enter Email
+[INFO ] 10-04-2025 10:39:24 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 10:39:25 [main] Log - Click Login btn on successfull created account screen
+[INFO ] 10-04-2025 10:39:29 [main] Log - New user on On Board screen is display
+[INFO ] 10-04-2025 10:41:38 [main] Log - Start testing TestProject with chrome: Place Order
+[INFO ] 10-04-2025 10:41:42 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 10:41:42 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 10:41:49 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 10:41:49 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 10:41:54 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 10:41:54 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 10:42:00 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 10:42:01 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 10:42:06 [main] Log - signUpSuccessfully test is starting...
+[INFO ] 10-04-2025 10:42:06 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:42:12 [main] Log - Enter Email
+[INFO ] 10-04-2025 10:42:18 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 10:42:20 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 10:42:24 [main] Log - signUpSuccessfully test is passed.
+[INFO ] 10-04-2025 10:42:28 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[INFO ] 10-04-2025 10:42:28 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:42:35 [main] Log - Enter Email
+[INFO ] 10-04-2025 10:42:40 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 10:42:42 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 10:42:46 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is passed.
+[INFO ] 10-04-2025 10:42:50 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[INFO ] 10-04-2025 10:42:50 [main] Log - Enter Full Name
+[ERROR] 10-04-2025 10:42:56 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is failed.
+[ERROR] 10-04-2025 10:42:56 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is failed.
+[INFO ] 10-04-2025 10:42:56 [main] Log - End testing TestProject with chrome: Place Order
+[INFO ] 10-04-2025 10:45:27 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 10:45:35 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 10:46:05 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:46:11 [main] Log - Enter Email
+[INFO ] 10-04-2025 10:46:16 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 10:46:18 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 10:49:10 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 10:49:34 [main] Log - signUp_emtyFullName test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUp_emtyFullName test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUp_emtyFullNameBySpace test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUpSuccessfully test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUpSuccessfully test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUp_emtyEmail test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUp_emtyEmail test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUp_emtyEmailBySpace test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUp_emtyEmailBySpace test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_1 test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_1 test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_2 test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_2 test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_3 test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_3 test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_4 test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_4 test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_5 test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - signUp_InvalidEmail_5 test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - loginAfterSigningUp test is starting...
+[WARN ] 10-04-2025 10:49:35 [main] Log - loginAfterSigningUp test is skipped.
+[INFO ] 10-04-2025 10:49:35 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 10:50:23 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 10:50:27 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 10:50:28 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 10:50:37 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 10:50:37 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 10:50:42 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 10:50:42 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 10:50:50 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 10:50:51 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 10:50:55 [main] Log - signUpSuccessfully test is starting...
+[INFO ] 10-04-2025 10:50:55 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 10:51:04 [main] Log - Enter Email
+[INFO ] 10-04-2025 10:51:11 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 10:51:15 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 10:51:16 [main] Log - signUpSuccessfully test is passed.
+[INFO ] 10-04-2025 10:51:23 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - signUp_emtyEmail test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - signUp_emtyEmail test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - signUp_emtyEmailBySpace test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - signUp_emtyEmailBySpace test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_1 test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_1 test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_2 test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_2 test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_3 test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_3 test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_4 test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_4 test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_5 test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - signUp_InvalidEmail_5 test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - loginAfterSigningUp test is starting...
+[WARN ] 10-04-2025 10:51:23 [main] Log - loginAfterSigningUp test is skipped.
+[INFO ] 10-04-2025 10:51:23 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 10:56:52 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 10:56:57 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 10:56:57 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 10:57:06 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 10:57:06 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 10:57:11 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 10:57:11 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 10:57:20 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 10:57:20 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUpSuccessfully test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUpSuccessfully test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUp_emtyEmail test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUp_emtyEmail test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUp_emtyEmailBySpace test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUp_emtyEmailBySpace test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_1 test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_1 test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_2 test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_2 test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_3 test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_3 test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_4 test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_4 test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_5 test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - signUp_InvalidEmail_5 test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - loginAfterSigningUp test is starting...
+[WARN ] 10-04-2025 10:57:27 [main] Log - loginAfterSigningUp test is skipped.
+[INFO ] 10-04-2025 10:57:27 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 10:59:02 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUp_emtyFullName test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUp_emtyFullName test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUp_emtyFullNameBySpace test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUpSuccessfully test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUpSuccessfully test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUp_emtyEmail test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUp_emtyEmail test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUp_emtyEmailBySpace test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUp_emtyEmailBySpace test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_1 test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_1 test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_2 test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_2 test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_3 test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_3 test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_4 test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_4 test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_5 test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - signUp_InvalidEmail_5 test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - loginAfterSigningUp test is starting...
+[WARN ] 10-04-2025 10:59:53 [main] Log - loginAfterSigningUp test is skipped.
+[INFO ] 10-04-2025 10:59:53 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 11:00:56 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 11:01:01 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 11:01:01 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 11:01:10 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 11:01:10 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 11:01:15 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 11:01:15 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 11:01:23 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 11:01:24 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 11:01:28 [main] Log - signUpSuccessfully test is starting...
+[INFO ] 10-04-2025 11:01:28 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 11:01:37 [main] Log - Enter Email
+[INFO ] 10-04-2025 11:01:44 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 11:01:47 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 11:01:49 [main] Log - signUpSuccessfully test is passed.
+[INFO ] 10-04-2025 11:01:54 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[INFO ] 10-04-2025 11:01:54 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 11:02:02 [main] Log - Enter Email
+[INFO ] 10-04-2025 11:02:09 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 11:02:13 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 11:02:15 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is passed.
+[INFO ] 10-04-2025 11:02:20 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[INFO ] 10-04-2025 11:02:20 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 11:02:29 [main] Log - Enter Email
+[ERROR] 10-04-2025 11:02:29 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is failed.
+[ERROR] 10-04-2025 11:02:29 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is failed.
+[INFO ] 10-04-2025 11:02:29 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 11:05:08 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 11:05:13 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 11:05:13 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 11:05:21 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 11:05:23 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 11:05:28 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 11:05:28 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 11:05:37 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 11:05:39 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 11:05:40 [main] Log - signUpSuccessfully test is starting...
+[WARN ] 10-04-2025 11:05:40 [main] Log - signUpSuccessfully test is skipped.
+[INFO ] 10-04-2025 11:05:40 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[WARN ] 10-04-2025 11:05:40 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is skipped.
+[INFO ] 10-04-2025 11:05:40 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[WARN ] 10-04-2025 11:05:40 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is skipped.
+[INFO ] 10-04-2025 11:05:40 [main] Log - signUp_emtyEmail test is starting...
+[WARN ] 10-04-2025 11:05:40 [main] Log - signUp_emtyEmail test is skipped.
+[INFO ] 10-04-2025 11:05:40 [main] Log - signUp_emtyEmailBySpace test is starting...
+[WARN ] 10-04-2025 11:05:40 [main] Log - signUp_emtyEmailBySpace test is skipped.
+[INFO ] 10-04-2025 11:05:40 [main] Log - signUp_InvalidEmail_1 test is starting...
+[WARN ] 10-04-2025 11:05:40 [main] Log - signUp_InvalidEmail_1 test is skipped.
+[INFO ] 10-04-2025 11:05:40 [main] Log - signUp_InvalidEmail_2 test is starting...
+[WARN ] 10-04-2025 11:05:40 [main] Log - signUp_InvalidEmail_2 test is skipped.
+[INFO ] 10-04-2025 11:05:41 [main] Log - signUp_InvalidEmail_3 test is starting...
+[WARN ] 10-04-2025 11:05:41 [main] Log - signUp_InvalidEmail_3 test is skipped.
+[INFO ] 10-04-2025 11:05:41 [main] Log - signUp_InvalidEmail_4 test is starting...
+[WARN ] 10-04-2025 11:05:41 [main] Log - signUp_InvalidEmail_4 test is skipped.
+[INFO ] 10-04-2025 11:05:41 [main] Log - signUp_InvalidEmail_5 test is starting...
+[WARN ] 10-04-2025 11:05:41 [main] Log - signUp_InvalidEmail_5 test is skipped.
+[INFO ] 10-04-2025 11:05:41 [main] Log - loginAfterSigningUp test is starting...
+[WARN ] 10-04-2025 11:05:41 [main] Log - loginAfterSigningUp test is skipped.
+[INFO ] 10-04-2025 11:05:41 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 11:09:26 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 11:12:39 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUp_emtyFullName test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUp_emtyFullName test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUp_emtyFullNameBySpace test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUpSuccessfully test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUpSuccessfully test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUp_emtyEmail test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUp_emtyEmail test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUp_emtyEmailBySpace test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUp_emtyEmailBySpace test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_1 test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_1 test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_2 test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_2 test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_3 test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_3 test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_4 test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_4 test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_5 test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - signUp_InvalidEmail_5 test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - loginAfterSigningUp test is starting...
+[WARN ] 10-04-2025 11:13:00 [main] Log - loginAfterSigningUp test is skipped.
+[INFO ] 10-04-2025 11:13:00 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 13:56:22 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 13:56:27 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 13:56:27 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 13:56:36 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 13:56:38 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 13:56:43 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 13:56:43 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 13:56:51 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 13:56:54 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 13:56:58 [main] Log - signUpSuccessfully test is starting...
+[INFO ] 10-04-2025 13:56:58 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 13:57:07 [main] Log - Enter Email
+[INFO ] 10-04-2025 13:57:14 [main] Log - Choose electrician occupation
+[ERROR] 10-04-2025 13:57:44 [main] Log - signUpSuccessfully test is failed.
+[ERROR] 10-04-2025 13:57:44 [main] Log - signUpSuccessfully test is failed.
+[INFO ] 10-04-2025 13:57:44 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 13:59:20 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 13:59:24 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 13:59:24 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:00:16 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:00:21 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 14:00:21 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:00:29 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 14:00:32 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 14:00:36 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 14:00:36 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:00:45 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 14:00:47 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 14:00:52 [main] Log - signUpSuccessfully test is starting...
+[INFO ] 10-04-2025 14:00:52 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:01:01 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:01:07 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:01:11 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 14:01:14 [main] Log - signUpSuccessfully test is passed.
+[INFO ] 10-04-2025 14:01:19 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[INFO ] 10-04-2025 14:01:19 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:01:28 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:01:35 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:01:39 [main] Log - Successfully created account screen is display
+[ERROR] 10-04-2025 14:01:39 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is failed.
+[ERROR] 10-04-2025 14:01:39 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is failed.
+[INFO ] 10-04-2025 14:01:39 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:06:15 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:06:19 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 14:06:19 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:06:42 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:06:47 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 14:06:47 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:06:56 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 14:06:58 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 14:07:03 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 14:07:03 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:07:11 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 14:07:13 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 14:07:18 [main] Log - signUpSuccessfully test is starting...
+[INFO ] 10-04-2025 14:07:18 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:07:27 [main] Log - Enter Email
+[ERROR] 10-04-2025 14:07:31 [main] Log - signUpSuccessfully test is failed.
+[ERROR] 10-04-2025 14:07:31 [main] Log - signUpSuccessfully test is failed.
+[INFO ] 10-04-2025 14:07:31 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:12:00 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:12:05 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 14:12:05 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:12:13 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 14:12:16 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 14:12:20 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 14:12:20 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:12:29 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 14:12:31 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 14:12:35 [main] Log - signUpSuccessfully test is starting...
+[INFO ] 10-04-2025 14:12:35 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:12:44 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:12:50 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:12:54 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 14:12:57 [main] Log - signUpSuccessfully test is passed.
+[INFO ] 10-04-2025 14:13:02 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[INFO ] 10-04-2025 14:13:02 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:13:11 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:13:17 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:13:21 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 14:13:21 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:14:14 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:14:18 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 14:14:18 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:14:29 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:14:34 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 14:14:34 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:14:42 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 14:14:45 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 14:14:49 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 14:14:49 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 14:14:58 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 14:15:02 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 14:15:06 [main] Log - signUpSuccessfully test is starting...
+[INFO ] 10-04-2025 14:15:06 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:15:15 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:15:22 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:15:26 [main] Log - Successfully created account screen is display
+[ERROR] 10-04-2025 14:15:26 [main] Log - signUpSuccessfully test is failed.
+[INFO ] 10-04-2025 14:15:30 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[INFO ] 10-04-2025 14:15:30 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:15:39 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:15:45 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:15:49 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 14:15:52 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is passed.
+[INFO ] 10-04-2025 14:15:57 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[INFO ] 10-04-2025 14:15:57 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:16:05 [main] Log - Enter Email
+[ERROR] 10-04-2025 14:16:09 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is failed.
+[INFO ] 10-04-2025 14:16:14 [main] Log - signUp_emtyEmail test is starting...
+[INFO ] 10-04-2025 14:16:14 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:16:22 [main] Log - Leave empt Email
+[INFO ] 10-04-2025 14:16:29 [main] Log - Empty email error message is display
+[INFO ] 10-04-2025 14:16:32 [main] Log - signUp_emtyEmail test is passed.
+[INFO ] 10-04-2025 14:16:36 [main] Log - signUp_emtyEmailBySpace test is starting...
+[INFO ] 10-04-2025 14:16:36 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:16:45 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:16:51 [main] Log - Empty email error message is display
+[INFO ] 10-04-2025 14:16:53 [main] Log - signUp_emtyEmailBySpace test is passed.
+[INFO ] 10-04-2025 14:16:58 [main] Log - signUp_InvalidEmail_1 test is starting...
+[INFO ] 10-04-2025 14:16:58 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:17:07 [main] Log - Enter Email Missing "@"
+[INFO ] 10-04-2025 14:17:15 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 14:17:17 [main] Log - signUp_InvalidEmail_1 test is passed.
+[INFO ] 10-04-2025 14:17:21 [main] Log - signUp_InvalidEmail_2 test is starting...
+[INFO ] 10-04-2025 14:17:21 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:17:30 [main] Log - Enter Email Missing domain
+[INFO ] 10-04-2025 14:17:37 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 14:17:39 [main] Log - signUp_InvalidEmail_2 test is passed.
+[INFO ] 10-04-2025 14:17:44 [main] Log - signUp_InvalidEmail_3 test is starting...
+[INFO ] 10-04-2025 14:17:44 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:17:52 [main] Log - Enter Email Missing extension
+[INFO ] 10-04-2025 14:17:59 [main] Log - Invalid email error message is display
+[ERROR] 10-04-2025 14:17:59 [main] Log - signUp_InvalidEmail_3 test is failed.
+[INFO ] 10-04-2025 14:18:04 [main] Log - signUp_InvalidEmail_4 test is starting...
+[INFO ] 10-04-2025 14:18:04 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:18:12 [main] Log - Enter Email Multiple "@@"
+[INFO ] 10-04-2025 14:18:19 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 14:18:21 [main] Log - signUp_InvalidEmail_4 test is passed.
+[INFO ] 10-04-2025 14:18:26 [main] Log - signUp_InvalidEmail_5 test is starting...
+[INFO ] 10-04-2025 14:18:26 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:18:35 [main] Log - Enter Email Special characters
+[INFO ] 10-04-2025 14:18:41 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 14:18:44 [main] Log - signUp_InvalidEmail_5 test is passed.
+[INFO ] 10-04-2025 14:18:48 [main] Log - loginAfterSigningUp test is starting...
+[INFO ] 10-04-2025 14:18:48 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:18:57 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:19:05 [main] Log - Choose electrician occupation
+[ERROR] 10-04-2025 14:19:05 [main] Log - loginAfterSigningUp test is failed.
+[INFO ] 10-04-2025 14:19:05 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 14:21:15 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:21:24 [main] Log - Enter Email Missing extension
+[INFO ] 10-04-2025 14:21:30 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 14:22:02 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:22:11 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:22:18 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:23:05 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:23:14 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:23:21 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:23:59 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:24:07 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:24:14 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:24:41 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:24:50 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:25:38 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:26:40 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:26:49 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:28:03 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:28:40 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:29:50 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 14:29:58 [main] Log - Enter Email
+[INFO ] 10-04-2025 14:30:07 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 14:30:11 [main] Log - Click Login btn on successfull created account screen
+[INFO ] 10-04-2025 14:30:14 [main] Log - New user on On Board screen is display
+[INFO ] 10-04-2025 15:45:42 [main] Log - Click login btn
+[INFO ] 10-04-2025 15:46:12 [main] Log - Click login btn
+[INFO ] 10-04-2025 15:46:13 [main] Log - Click username input
+[INFO ] 10-04-2025 15:46:14 [main] Log - Enter username input
+[INFO ] 10-04-2025 15:46:17 [main] Log - Click continue
+[INFO ] 10-04-2025 15:46:18 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 15:46:23 [main] Log - Click continue
+[INFO ] 10-04-2025 15:47:35 [main] Log - Click login btn
+[INFO ] 10-04-2025 15:48:29 [main] Log - Click login btn
+[INFO ] 10-04-2025 15:48:30 [main] Log - Click username input
+[INFO ] 10-04-2025 15:48:30 [main] Log - Enter username input
+[INFO ] 10-04-2025 15:48:34 [main] Log - Click continue
+[INFO ] 10-04-2025 15:48:35 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 15:48:39 [main] Log - Click continue
+[INFO ] 10-04-2025 15:55:42 [main] Log - Login as Admin
+[INFO ] 10-04-2025 15:55:42 [main] Log - Click login btn
+[INFO ] 10-04-2025 15:55:43 [main] Log - Click username input
+[INFO ] 10-04-2025 15:55:44 [main] Log - Enter username input
+[INFO ] 10-04-2025 15:55:47 [main] Log - Click continue
+[INFO ] 10-04-2025 15:55:48 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 15:55:53 [main] Log - Click continue
+[INFO ] 10-04-2025 15:55:54 [main] Log - Access user list
+[INFO ] 10-04-2025 15:57:56 [main] Log - Login as Admin
+[INFO ] 10-04-2025 15:57:56 [main] Log - Click login btn
+[INFO ] 10-04-2025 15:57:57 [main] Log - Click username input
+[INFO ] 10-04-2025 15:57:58 [main] Log - Enter username input
+[INFO ] 10-04-2025 15:58:02 [main] Log - Click continue
+[INFO ] 10-04-2025 15:58:03 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 15:58:07 [main] Log - Click continue
+[INFO ] 10-04-2025 15:58:08 [main] Log - Access user list
+[INFO ] 10-04-2025 16:04:47 [main] Log - Login as Admin
+[INFO ] 10-04-2025 16:04:47 [main] Log - Click login btn
+[INFO ] 10-04-2025 16:04:48 [main] Log - Click username input
+[INFO ] 10-04-2025 16:04:49 [main] Log - Enter username input
+[INFO ] 10-04-2025 16:04:52 [main] Log - Click continue
+[INFO ] 10-04-2025 16:04:54 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 16:04:58 [main] Log - Click continue
+[INFO ] 10-04-2025 16:04:58 [main] Log - Access user list
+[INFO ] 10-04-2025 16:12:38 [main] Log - Login as Admin
+[INFO ] 10-04-2025 16:12:38 [main] Log - Click login btn
+[INFO ] 10-04-2025 16:12:39 [main] Log - Click username input
+[INFO ] 10-04-2025 16:12:40 [main] Log - Enter username input
+[INFO ] 10-04-2025 16:12:43 [main] Log - Click continue
+[INFO ] 10-04-2025 16:12:44 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 16:12:49 [main] Log - Click continue
+[INFO ] 10-04-2025 16:12:55 [main] Log - Access user list
+[INFO ] 10-04-2025 16:14:33 [main] Log - Login as Admin
+[INFO ] 10-04-2025 16:14:33 [main] Log - Click login btn
+[INFO ] 10-04-2025 16:14:34 [main] Log - Click username input
+[INFO ] 10-04-2025 16:14:35 [main] Log - Enter username input
+[INFO ] 10-04-2025 16:14:39 [main] Log - Click continue
+[INFO ] 10-04-2025 16:14:40 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 16:14:44 [main] Log - Click continue
+[INFO ] 10-04-2025 16:14:50 [main] Log - Access user list
+[INFO ] 10-04-2025 16:19:45 [main] Log - Login as Admin
+[INFO ] 10-04-2025 16:19:45 [main] Log - Click login btn
+[INFO ] 10-04-2025 16:19:46 [main] Log - Click username input
+[INFO ] 10-04-2025 16:19:47 [main] Log - Enter username input
+[INFO ] 10-04-2025 16:19:51 [main] Log - Click continue
+[INFO ] 10-04-2025 16:19:51 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 16:19:56 [main] Log - Click continue
+[INFO ] 10-04-2025 16:20:02 [main] Log - Access user list
+[INFO ] 10-04-2025 16:24:19 [main] Log - Login as Admin
+[INFO ] 10-04-2025 16:24:19 [main] Log - Click login btn
+[INFO ] 10-04-2025 16:24:20 [main] Log - Click username input
+[INFO ] 10-04-2025 16:24:21 [main] Log - Enter username input
+[INFO ] 10-04-2025 16:24:25 [main] Log - Click continue
+[INFO ] 10-04-2025 16:24:26 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 16:24:30 [main] Log - Click continue
+[INFO ] 10-04-2025 16:24:36 [main] Log - Access user list
+[INFO ] 10-04-2025 16:30:08 [main] Log - Login as Admin
+[INFO ] 10-04-2025 16:30:08 [main] Log - Click login btn
+[INFO ] 10-04-2025 16:30:09 [main] Log - Click username input
+[INFO ] 10-04-2025 16:30:10 [main] Log - Enter username input
+[INFO ] 10-04-2025 16:30:14 [main] Log - Click continue
+[INFO ] 10-04-2025 16:30:14 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 16:30:19 [main] Log - Click continue
+[INFO ] 10-04-2025 16:30:25 [main] Log - Access user list
+[INFO ] 10-04-2025 16:38:36 [main] Log - Login as Admin
+[INFO ] 10-04-2025 16:38:36 [main] Log - Click login btn
+[INFO ] 10-04-2025 16:38:37 [main] Log - Click username input
+[INFO ] 10-04-2025 16:38:38 [main] Log - Enter username input
+[INFO ] 10-04-2025 16:38:41 [main] Log - Click continue
+[INFO ] 10-04-2025 16:38:42 [main] Log - Enter passcode input
+[INFO ] 10-04-2025 16:38:47 [main] Log - Click continue
+[INFO ] 10-04-2025 16:38:53 [main] Log - Access user list
+[INFO ] 10-04-2025 16:41:51 [main] Log - Start testing TestProject with Android: Babylon Nexus
+[INFO ] 10-04-2025 16:41:56 [main] Log - signUp_emtyFullName test is starting...
+[INFO ] 10-04-2025 16:41:56 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 16:42:06 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 16:42:08 [main] Log - signUp_emtyFullName test is passed.
+[INFO ] 10-04-2025 16:42:13 [main] Log - signUp_emtyFullNameBySpace test is starting...
+[INFO ] 10-04-2025 16:42:13 [main] Log - Leave empty Full Name
+[INFO ] 10-04-2025 16:42:22 [main] Log - Empty full name error message is display
+[INFO ] 10-04-2025 16:42:24 [main] Log - signUp_emtyFullNameBySpace test is passed.
+[INFO ] 10-04-2025 16:42:29 [main] Log - signUpSuccessfully test is starting...
+[INFO ] 10-04-2025 16:42:29 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:42:38 [main] Log - Enter Email
+[INFO ] 10-04-2025 16:42:45 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 16:42:48 [main] Log - Successfully created account screen is display
+[INFO ] 10-04-2025 16:42:52 [main] Log - signUpSuccessfully test is passed.
+[INFO ] 10-04-2025 16:42:57 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is starting...
+[INFO ] 10-04-2025 16:42:57 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:43:06 [main] Log - Enter Email
+[INFO ] 10-04-2025 16:43:13 [main] Log - Choose electrician occupation
+[ERROR] 10-04-2025 16:43:14 [main] Log - signUpSuccessfullySpecialCharacterFullName_1 test is failed.
+[INFO ] 10-04-2025 16:43:18 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is starting...
+[INFO ] 10-04-2025 16:43:18 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:43:27 [main] Log - Enter Email
+[ERROR] 10-04-2025 16:43:31 [main] Log - signUpSuccessfullySpecialCharacterFullName_2 test is failed.
+[INFO ] 10-04-2025 16:43:36 [main] Log - signUp_emtyEmail test is starting...
+[INFO ] 10-04-2025 16:43:36 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:43:45 [main] Log - Leave empt Email
+[INFO ] 10-04-2025 16:43:52 [main] Log - Empty email error message is display
+[INFO ] 10-04-2025 16:43:54 [main] Log - signUp_emtyEmail test is passed.
+[INFO ] 10-04-2025 16:43:59 [main] Log - signUp_emtyEmailBySpace test is starting...
+[INFO ] 10-04-2025 16:43:59 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:44:08 [main] Log - Enter Email
+[INFO ] 10-04-2025 16:44:15 [main] Log - Empty email error message is display
+[INFO ] 10-04-2025 16:44:18 [main] Log - signUp_emtyEmailBySpace test is passed.
+[INFO ] 10-04-2025 16:44:22 [main] Log - signUp_InvalidEmail_1 test is starting...
+[INFO ] 10-04-2025 16:44:22 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:44:31 [main] Log - Enter Email Missing "@"
+[INFO ] 10-04-2025 16:44:38 [main] Log - Invalid email error message is display
+[ERROR] 10-04-2025 16:44:38 [main] Log - signUp_InvalidEmail_1 test is failed.
+[INFO ] 10-04-2025 16:44:43 [main] Log - signUp_InvalidEmail_2 test is starting...
+[INFO ] 10-04-2025 16:44:43 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:44:52 [main] Log - Enter Email Missing domain
+[INFO ] 10-04-2025 16:44:59 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 16:45:02 [main] Log - signUp_InvalidEmail_2 test is passed.
+[INFO ] 10-04-2025 16:45:06 [main] Log - signUp_InvalidEmail_3 test is starting...
+[INFO ] 10-04-2025 16:45:06 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:45:16 [main] Log - Enter Email Missing extension
+[INFO ] 10-04-2025 16:45:22 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 16:45:24 [main] Log - signUp_InvalidEmail_3 test is passed.
+[INFO ] 10-04-2025 16:45:29 [main] Log - signUp_InvalidEmail_4 test is starting...
+[INFO ] 10-04-2025 16:45:29 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:45:38 [main] Log - Enter Email Multiple "@@"
+[INFO ] 10-04-2025 16:45:45 [main] Log - Invalid email error message is display
+[ERROR] 10-04-2025 16:45:45 [main] Log - signUp_InvalidEmail_4 test is failed.
+[INFO ] 10-04-2025 16:45:49 [main] Log - signUp_InvalidEmail_5 test is starting...
+[INFO ] 10-04-2025 16:45:49 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:45:58 [main] Log - Enter Email Special characters
+[INFO ] 10-04-2025 16:46:05 [main] Log - Invalid email error message is display
+[INFO ] 10-04-2025 16:46:07 [main] Log - signUp_InvalidEmail_5 test is passed.
+[INFO ] 10-04-2025 16:46:13 [main] Log - loginAfterSigningUp test is starting...
+[INFO ] 10-04-2025 16:46:13 [main] Log - Enter Full Name
+[INFO ] 10-04-2025 16:46:21 [main] Log - Enter Email
+[INFO ] 10-04-2025 16:46:29 [main] Log - Choose electrician occupation
+[INFO ] 10-04-2025 16:46:32 [main] Log - Click Login btn on successfull created account screen
+[ERROR] 10-04-2025 16:46:32 [main] Log - loginAfterSigningUp test is failed.
+[INFO ] 10-04-2025 16:46:33 [main] Log - End testing TestProject with Android: Babylon Nexus
+[INFO ] 11-04-2025 08:28:02 [main] Log - Login as Admin
+[INFO ] 11-04-2025 08:28:02 [main] Log - Click login btn
+[INFO ] 11-04-2025 08:55:05 [main] Log - Login as Admin
+[INFO ] 11-04-2025 08:55:05 [main] Log - Click login btn
+[INFO ] 11-04-2025 08:55:06 [main] Log - Click username input
+[INFO ] 11-04-2025 08:55:08 [main] Log - Enter username input
+[INFO ] 11-04-2025 08:55:11 [main] Log - Click continue
+[INFO ] 11-04-2025 08:55:12 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 08:55:16 [main] Log - Click continue
+[INFO ] 11-04-2025 08:55:23 [main] Log - Access user list
+[INFO ] 11-04-2025 09:32:51 [main] Log - Login as Admin
+[INFO ] 11-04-2025 09:32:51 [main] Log - Click login btn
+[INFO ] 11-04-2025 09:32:53 [main] Log - Click username input
+[INFO ] 11-04-2025 09:32:54 [main] Log - Enter username input
+[INFO ] 11-04-2025 09:32:57 [main] Log - Click continue
+[INFO ] 11-04-2025 09:32:58 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 09:33:01 [main] Log - Click continue
+[INFO ] 11-04-2025 09:33:08 [main] Log - Access user list
+[INFO ] 11-04-2025 09:42:07 [main] Log - Login as Admin
+[INFO ] 11-04-2025 09:42:07 [main] Log - Click login btn
+[INFO ] 11-04-2025 09:42:08 [main] Log - Click username input
+[INFO ] 11-04-2025 09:42:09 [main] Log - Enter username input
+[INFO ] 11-04-2025 09:42:12 [main] Log - Click continue
+[INFO ] 11-04-2025 09:42:13 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 09:42:17 [main] Log - Click continue
+[INFO ] 11-04-2025 09:42:23 [main] Log - Access user list
+[INFO ] 11-04-2025 10:09:21 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:09:21 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:09:22 [main] Log - Click username input
+[INFO ] 11-04-2025 10:09:23 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:09:25 [main] Log - Click continue
+[INFO ] 11-04-2025 10:09:27 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:09:30 [main] Log - Click continue
+[INFO ] 11-04-2025 10:09:37 [main] Log - Access user list
+[INFO ] 11-04-2025 10:09:40 [main] Log - Access filter choose Builder
+[INFO ] 11-04-2025 10:09:45 [main] Log - Click show results
+[INFO ] 11-04-2025 10:09:58 [main] Log - Verify all builder shown
+[INFO ] 11-04-2025 10:16:15 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:16:15 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:16:16 [main] Log - Click username input
+[INFO ] 11-04-2025 10:16:17 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:16:20 [main] Log - Click continue
+[INFO ] 11-04-2025 10:16:21 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:16:24 [main] Log - Click continue
+[INFO ] 11-04-2025 10:16:31 [main] Log - Access user list
+[INFO ] 11-04-2025 10:16:34 [main] Log - Access filter choose Banker
+[INFO ] 11-04-2025 10:16:39 [main] Log - Click show results
+[INFO ] 11-04-2025 10:16:52 [main] Log - Verify all Banker shown
+[INFO ] 11-04-2025 10:25:14 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:25:14 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:25:15 [main] Log - Click username input
+[INFO ] 11-04-2025 10:25:16 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:25:19 [main] Log - Click continue
+[INFO ] 11-04-2025 10:25:19 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:25:24 [main] Log - Click continue
+[INFO ] 11-04-2025 10:25:30 [main] Log - Access user list
+[INFO ] 11-04-2025 10:25:33 [main] Log - Access filter choose Builder
+[INFO ] 11-04-2025 10:25:38 [main] Log - Click show results
+[INFO ] 11-04-2025 10:25:51 [main] Log - Verify all builder shown
+[INFO ] 11-04-2025 10:26:02 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:26:02 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:26:03 [main] Log - Click username input
+[INFO ] 11-04-2025 10:26:04 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:26:07 [main] Log - Click continue
+[INFO ] 11-04-2025 10:26:08 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:26:12 [main] Log - Click continue
+[INFO ] 11-04-2025 10:26:18 [main] Log - Access user list
+[INFO ] 11-04-2025 10:26:20 [main] Log - Access filter choose Banker
+[INFO ] 11-04-2025 10:26:25 [main] Log - Click show results
+[INFO ] 11-04-2025 10:26:38 [main] Log - Verify all Banker shown
+[INFO ] 11-04-2025 10:26:49 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:26:49 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:26:51 [main] Log - Click username input
+[INFO ] 11-04-2025 10:26:52 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:26:54 [main] Log - Click continue
+[INFO ] 11-04-2025 10:26:55 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:26:59 [main] Log - Click continue
+[INFO ] 11-04-2025 10:27:06 [main] Log - Access user list
+[INFO ] 11-04-2025 10:29:30 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:29:30 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:30:26 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:30:26 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:30:27 [main] Log - Click username input
+[INFO ] 11-04-2025 10:30:28 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:30:30 [main] Log - Click continue
+[INFO ] 11-04-2025 10:30:32 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:30:35 [main] Log - Click continue
+[INFO ] 11-04-2025 10:30:42 [main] Log - Access user list
+[INFO ] 11-04-2025 10:30:45 [main] Log - Access filter choose Builder
+[INFO ] 11-04-2025 10:30:50 [main] Log - Click show results
+[INFO ] 11-04-2025 10:33:11 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:33:11 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:33:12 [main] Log - Click username input
+[INFO ] 11-04-2025 10:33:13 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:33:16 [main] Log - Click continue
+[INFO ] 11-04-2025 10:33:17 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:33:20 [main] Log - Click continue
+[INFO ] 11-04-2025 10:33:27 [main] Log - Access user list
+[INFO ] 11-04-2025 10:33:30 [main] Log - Access filter choose Contractor
+[INFO ] 11-04-2025 10:33:35 [main] Log - Click show results
+[INFO ] 11-04-2025 10:33:48 [main] Log - Verify all Contractor shown
+[INFO ] 11-04-2025 10:35:27 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:35:27 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:35:28 [main] Log - Click username input
+[INFO ] 11-04-2025 10:35:29 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:35:32 [main] Log - Click continue
+[INFO ] 11-04-2025 10:35:33 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:35:37 [main] Log - Click continue
+[INFO ] 11-04-2025 10:35:43 [main] Log - Access user list
+[INFO ] 11-04-2025 10:35:46 [main] Log - Access filter choose Construction
+[INFO ] 11-04-2025 10:35:51 [main] Log - Click show results
+[INFO ] 11-04-2025 10:36:04 [main] Log - Verify all Construction shown
+[INFO ] 11-04-2025 10:45:45 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:45:45 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:45:45 [main] Log - Click username input
+[INFO ] 11-04-2025 10:45:46 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:45:49 [main] Log - Click continue
+[INFO ] 11-04-2025 10:45:51 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:45:54 [main] Log - Click continue
+[INFO ] 11-04-2025 10:46:00 [main] Log - Access user list
+[INFO ] 11-04-2025 10:46:03 [main] Log - Access filter choose Builder
+[INFO ] 11-04-2025 10:46:08 [main] Log - Click show results
+[INFO ] 11-04-2025 10:46:22 [main] Log - Verify all builder shown
+[INFO ] 11-04-2025 10:46:32 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:46:32 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:46:34 [main] Log - Click username input
+[INFO ] 11-04-2025 10:46:35 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:46:37 [main] Log - Click continue
+[INFO ] 11-04-2025 10:46:38 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:46:42 [main] Log - Click continue
+[INFO ] 11-04-2025 10:46:48 [main] Log - Access user list
+[INFO ] 11-04-2025 10:46:51 [main] Log - Access filter choose Electrician
+[INFO ] 11-04-2025 10:46:56 [main] Log - Click show results
+[INFO ] 11-04-2025 10:47:09 [main] Log - Verify all Electrician shown
+[INFO ] 11-04-2025 10:47:19 [main] Log - Login as Admin
+[INFO ] 11-04-2025 10:47:19 [main] Log - Click login btn
+[INFO ] 11-04-2025 10:47:21 [main] Log - Click username input
+[INFO ] 11-04-2025 10:47:22 [main] Log - Enter username input
+[INFO ] 11-04-2025 10:47:24 [main] Log - Click continue
+[INFO ] 11-04-2025 10:47:26 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 10:47:29 [main] Log - Click continue
+[INFO ] 11-04-2025 10:47:35 [main] Log - Access user list
+[INFO ] 11-04-2025 11:12:37 [main] Log - Login as Admin
+[INFO ] 11-04-2025 11:12:37 [main] Log - Click login btn
+[INFO ] 11-04-2025 11:12:38 [main] Log - Click username input
+[INFO ] 11-04-2025 11:12:39 [main] Log - Enter username input
+[INFO ] 11-04-2025 11:12:42 [main] Log - Click continue
+[INFO ] 11-04-2025 11:12:43 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 11:12:47 [main] Log - Click continue
+[INFO ] 11-04-2025 11:12:53 [main] Log - Access user list
+[INFO ] 11-04-2025 11:12:56 [main] Log - Access filter choose status - Signup
+[INFO ] 11-04-2025 11:13:01 [main] Log - Click show results
+[INFO ] 11-04-2025 11:13:14 [main] Log - Verify all signup-user shown
+[INFO ] 11-04-2025 11:13:36 [main] Log - Login as Admin
+[INFO ] 11-04-2025 11:13:36 [main] Log - Click login btn
+[INFO ] 11-04-2025 11:13:37 [main] Log - Click username input
+[INFO ] 11-04-2025 11:13:38 [main] Log - Enter username input
+[INFO ] 11-04-2025 11:13:41 [main] Log - Click continue
+[INFO ] 11-04-2025 11:13:42 [main] Log - Enter passcode input
+[INFO ] 11-04-2025 11:13:46 [main] Log - Click continue
+[INFO ] 11-04-2025 11:13:52 [main] Log - Access user list
+[INFO ] 11-04-2025 11:13:55 [main] Log - Access filter choose status - Registered
+[INFO ] 11-04-2025 11:14:00 [main] Log - Click show results
+[INFO ] 11-04-2025 11:14:13 [main] Log - Verify all Registered-user shown
+[INFO ] 11-04-2025 11:15:21 [main] Log - Login as Admin
+[INFO ] 11-04-2025 11:15:21 [main] Log - Click login btn
+[INFO ] 11-04-2025 11:15:22 [main] Log - Click username input
+[INFO ] 11-04-2025 11:15:22 [main] Log - Enter username input
+[INFO ] 11-04-2025 11:15:25 [main] Log - Click continue
+[INFO ] 11-04-2025 11:16:27 [main] Log - Login as Admin
+[INFO ] 11-04-2025 11:16:27 [main] Log - Click login btn
+[INFO ] 11-04-2025 11:16:28 [main] Log - Click username input
+[INFO ] 11-04-2025 11:16:28 [main] Log - Enter username input
+[INFO ] 11-04-2025 11:16:32 [main] Log - Click continue
+[INFO ] 11-04-2025 11:18:21 [main] Log - Login as Admin
+[INFO ] 11-04-2025 11:18:21 [main] Log - Click login btn

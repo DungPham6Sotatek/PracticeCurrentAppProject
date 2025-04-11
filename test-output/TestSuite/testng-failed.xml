@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]">
+  <listeners>
+    <listener class-name="automation.ultis.listeners.ReportListener"/>
+  </listeners>
+  <test thread-count="5" name="TestProject with Android: Babylon Nexus(failed)">
+    <classes>
+      <class name="automation.testsuite.TestSignUp">
+        <methods>
+          <include name="signUpSuccessfullySpecialCharacterFullName_1"/>
+          <include name="signUpSuccessfullySpecialCharacterFullName_2"/>
+          <include name="signUp_InvalidEmail_1"/>
+          <include name="signUp_InvalidEmail_4"/>
+          <include name="tearDown"/>
+          <include name="initApp"/>
+          <include name="loginAfterSigningUp"/>
+        </methods>
+      </class> <!-- automation.testsuite.TestSignUp -->
+    </classes>
+  </test> <!-- TestProject with Android: Babylon Nexus(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

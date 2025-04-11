@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="8" passed="0" failed="0" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-11T11:18:17 ICT" name="Default suite" finished-at="2025-04-11T11:18:51 ICT" duration-ms="34161">
+    <groups>
+    </groups>
+    <test started-at="2025-04-11T11:18:17 ICT" name="Default test" finished-at="2025-04-11T11:18:51 ICT" duration-ms="34161">
+      <class name="automation.testsuite.TestUserListFilter">
+        <test-method is-config="true" signature="openUserList()[pri:0, instance:automation.testsuite.TestUserListFilter@4b86805d]" started-at="2025-04-11T11:18:17 ICT" name="openUserList" finished-at="2025-04-11T11:18:51 ICT" duration-ms="33974" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[A session is either terminated or not started
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [4d26eb8b-1dc8-480c-be86-16ac2f984ba1, findElement {value=//android.widget.Button[@content-desc="Log in"], using=xpath}]
+Capabilities {appium:appActivity: com.example.babylon_nexus.M..., appium:appPackage: com.example.babylon_nexus, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {appActivity: com.example.babylon_nexus.M..., appPackage: com.example.babylon_nexus, automationName: UiAutomator2, deviceName: Android Device, noReset: true, platformName: ANDROID, udid: 2b2935095b3f7ece}, appium:deviceApiLevel: 29, appium:deviceManufacturer: samsung, appium:deviceModel: SM-N960F, appium:deviceName: 2b2935095b3f7ece, appium:deviceScreenDensity: 420, appium:deviceScreenSize: 1080x2220, appium:deviceUDID: 2b2935095b3f7ece, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:noReset: true, appium:pixelRatio: 2.625, appium:platformVersion: 10, appium:statBarHeight: 63, appium:takesScreenshot: true, appium:udid: 2b2935095b3f7ece, appium:viewportRect: {height: 2157, left: 0, top: 63, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 4d26eb8b-1dc8-480c-be86-16ac2f984ba1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: A session is either terminated or not started
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [4d26eb8b-1dc8-480c-be86-16ac2f984ba1, findElement {value=//android.widget.Button[@content-desc="Log in"], using=xpath}]
+Capabilities {appium:appActivity: com.example.babylon_nexus.M..., appium:appPackage: com.example.babylon_nexus, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {appActivity: com.example.babylon_nexus.M..., appPackage: com.example.babylon_nexus, automationName: UiAutomator2, deviceName: Android Device, noReset: true, platformName: ANDROID, udid: 2b2935095b3f7ece}, appium:deviceApiLevel: 29, appium:deviceManufacturer: samsung, appium:deviceModel: SM-N960F, appium:deviceName: 2b2935095b3f7ece, appium:deviceScreenDensity: 420, appium:deviceScreenSize: 1080x2220, appium:deviceUDID: 2b2935095b3f7ece, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:noReset: true, appium:pixelRatio: 2.625, appium:platformVersion: 10, appium:statBarHeight: 63, appium:takesScreenshot: true, appium:udid: 2b2935095b3f7ece, appium:viewportRect: {height: 2157, left: 0, top: 63, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 4d26eb8b-1dc8-480c-be86-16ac2f984ba1
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:243)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+at automation.common.CommonBase.getElementVisibility(CommonBase.java:50)
+at automation.common.CommonBase.clickToElement(CommonBase.java:66)
+at automation.screenLocators.LoginScreen.LoginAsAdminSuccessfully(LoginScreen.java:21)
+at automation.testsuite.TestUserListFilter.openUserList(TestUserListFilter.java:18)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUserList -->
+        <test-method signature="filterStatus_Deleted()[pri:8, instance:automation.testsuite.TestUserListFilter@4b86805d]" started-at="2025-04-11T11:18:51 ICT" name="filterStatus_Deleted" finished-at="2025-04-11T11:18:51 ICT" duration-ms="1" status="SKIP">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[A session is either terminated or not started
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [4d26eb8b-1dc8-480c-be86-16ac2f984ba1, findElement {value=//android.widget.Button[@content-desc="Log in"], using=xpath}]
+Capabilities {appium:appActivity: com.example.babylon_nexus.M..., appium:appPackage: com.example.babylon_nexus, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {appActivity: com.example.babylon_nexus.M..., appPackage: com.example.babylon_nexus, automationName: UiAutomator2, deviceName: Android Device, noReset: true, platformName: ANDROID, udid: 2b2935095b3f7ece}, appium:deviceApiLevel: 29, appium:deviceManufacturer: samsung, appium:deviceModel: SM-N960F, appium:deviceName: 2b2935095b3f7ece, appium:deviceScreenDensity: 420, appium:deviceScreenSize: 1080x2220, appium:deviceUDID: 2b2935095b3f7ece, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:noReset: true, appium:pixelRatio: 2.625, appium:platformVersion: 10, appium:statBarHeight: 63, appium:takesScreenshot: true, appium:udid: 2b2935095b3f7ece, appium:viewportRect: {height: 2157, left: 0, top: 63, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 4d26eb8b-1dc8-480c-be86-16ac2f984ba1]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: A session is either terminated or not started
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [4d26eb8b-1dc8-480c-be86-16ac2f984ba1, findElement {value=//android.widget.Button[@content-desc="Log in"], using=xpath}]
+Capabilities {appium:appActivity: com.example.babylon_nexus.M..., appium:appPackage: com.example.babylon_nexus, appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {appActivity: com.example.babylon_nexus.M..., appPackage: com.example.babylon_nexus, automationName: UiAutomator2, deviceName: Android Device, noReset: true, platformName: ANDROID, udid: 2b2935095b3f7ece}, appium:deviceApiLevel: 29, appium:deviceManufacturer: samsung, appium:deviceModel: SM-N960F, appium:deviceName: 2b2935095b3f7ece, appium:deviceScreenDensity: 420, appium:deviceScreenSize: 1080x2220, appium:deviceUDID: 2b2935095b3f7ece, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:noReset: true, appium:pixelRatio: 2.625, appium:platformVersion: 10, appium:statBarHeight: 63, appium:takesScreenshot: true, appium:udid: 2b2935095b3f7ece, appium:viewportRect: {height: 2157, left: 0, top: 63, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 4d26eb8b-1dc8-480c-be86-16ac2f984ba1
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:243)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
+at automation.common.CommonBase.getElementVisibility(CommonBase.java:50)
+at automation.common.CommonBase.clickToElement(CommonBase.java:66)
+at automation.screenLocators.LoginScreen.LoginAsAdminSuccessfully(LoginScreen.java:21)
+at automation.testsuite.TestUserListFilter.openUserList(TestUserListFilter.java:18)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterStatus_Deleted -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:automation.testsuite.TestUserListFilter@4b86805d]" started-at="2025-04-11T11:18:51 ICT" name="tearDown" finished-at="2025-04-11T11:18:51 ICT" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automation.testsuite.TestUserListFilter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
